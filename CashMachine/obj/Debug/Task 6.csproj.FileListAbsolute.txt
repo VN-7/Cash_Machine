@@ -1,0 +1,21 @@
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\bin\Debug\Task 6.exe.config
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\bin\Debug\Task 6.exe
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\bin\Debug\Task 6.pdb
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\obj\Debug\Task 6.csprojResolveAssemblyReference.cache
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\obj\Debug\Task_6.Properties.Resources.resources
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\obj\Debug\Task 6.csproj.GenerateResource.Cache
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\obj\Debug\Task 6.exe
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\obj\Debug\Task 6.pdb
+c:\users\user 0008\documents\visual studio 2012\Projects\Task 6\Task 6\obj\Debug\Task_6.FrmCashMachine.resources
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\Task 6\Task 6\bin\Debug\Task 6.exe.config
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\Task 6\Task 6\obj\Debug\Task 6.exe
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\Task 6\Task 6\obj\Debug\Task 6.pdb
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\bin\Debug\Task 6.exe.config
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\obj\Debug\Task 6.exe
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\obj\Debug\Task 6.pdb
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\bin\Debug\Task 6.exe
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\bin\Debug\Task 6.pdb
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\obj\Debug\Task 6.csprojResolveAssemblyReference.cache
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\obj\Debug\Task_6.FrmCashMachine.resources
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\obj\Debug\Task_6.Properties.Resources.resources
+C:\Users\vanessa narciso\Documents\Visual Studio 2012\Projects\CashMachine\CashMachine\obj\Debug\Task 6.csproj.GenerateResource.Cache
